@@ -1,6 +1,9 @@
+
 # hack-rubika
 هک روبیکا با شماره تلفن و شناسه اکانت روبیکا
+
 -CHANEL RUBIKA : @GITHUB_ANONYMOUS
+
 - How To Run?:
   Open To Termux and enter codes:
 
